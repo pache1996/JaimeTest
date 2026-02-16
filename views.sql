@@ -1,1 +1,1 @@
-asdasdfasdfasdf
+SELECT 1234,ROUND(3.45,1) FROM DUAL;
